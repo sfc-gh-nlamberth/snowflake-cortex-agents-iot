@@ -1,2 +1,4 @@
 connections.json
 rsa_private_key.pem
+.DS_Store
+**/.DS_Store
